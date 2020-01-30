@@ -11,6 +11,11 @@ In order to use this API, you are required an API key. See more information in R
     <PackageTags>raindbowsixsiege api rest</PackageTags>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <PackageProjectUrl>https://r6stats.com/</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Lachee/r6stats-csharp</RepositoryUrl>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <FileVersion>1.0.0.1</FileVersion>
+    <PackageLicenseExpression>GPL-3.0</PackageLicenseExpression>
+    <PackageId>R6Stats C#</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
