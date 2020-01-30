@@ -1,5 +1,5 @@
 # r6stats-csharp
-.NET Core library for (R6Stats)[https://r6stats.com/]
+.NET Core library for [R6Stats](https://r6stats.com/)
 
 ## Requirements
 * .NET Core 2.0
