@@ -15,7 +15,7 @@ In order to use this API, you are required an API key. See more information in R
     <AssemblyVersion>1.0.0.1</AssemblyVersion>
     <FileVersion>1.0.0.1</FileVersion>
     <PackageLicenseExpression></PackageLicenseExpression>
-    <PackageId>R6Stats C#</PackageId>
+    <PackageId>R6Stats</PackageId>
     <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
   </PropertyGroup>
 
