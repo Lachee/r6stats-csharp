@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Company>Lachee</Company>
+    <Authors>Lachee</Authors>
+    <Description>.NET Core library for R6Stats API.
+In order to use this API, you are required an API key. See more information in Repository Readme.</Description>
+    <Copyright></Copyright>
+    <PackageTags>raindbowsixsiege api rest</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://r6stats.com/</PackageProjectUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+</Project>
