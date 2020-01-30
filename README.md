@@ -1,5 +1,5 @@
 # R6Stats C#
-[![Build status](https://ci.appveyor.com/api/projects/status/3lac8dlphqsd3rvm/branch/nuget?svg=true)](https://ci.appveyor.com/project/Lachee/r6stats-csharp/branch/master) [![Nuget](https://img.shields.io/nuget/v/R6Stats.svg)](https://www.nuget.org/packages/R6Stats/) [![Discord](https://img.shields.io/discord/293848587391991836?color=%237289DA&label=chat)](https://discord.gg/cJFbCSm)
+[![Build status](https://ci.appveyor.com/api/projects/status/3lac8dlphqsd3rvm/branch/nuget?svg=true)](https://ci.appveyor.com/project/Lachee/r6stats-csharp/branch/nuget) [![Nuget](https://img.shields.io/nuget/v/R6Stats.svg)](https://www.nuget.org/packages/R6Stats/) [![Discord](https://img.shields.io/discord/293848587391991836?color=%237289DA&label=chat)](https://discord.gg/cJFbCSm)
 
 .NET Core library for [R6Stats](https://r6stats.com/). This library enables you to fetch statistics ranging from player KD to distance traveled from the R6Stats. Perform anayltics and other useful metrics on your own performance.
 
@@ -22,4 +22,4 @@ The API is ratelimited. The default ratelimit is 60 requests / minute. If you re
 | Branch | Status |
 |--------|--------|
 | Master | [![Build status](https://ci.appveyor.com/api/projects/status/3lac8dlphqsd3rvm/branch/master?svg=true)](https://ci.appveyor.com/project/Lachee/r6stats-csharp/branch/master)| 
-| Nuget  | [![Build status](https://ci.appveyor.com/api/projects/status/3lac8dlphqsd3rvm/branch/nuget?svg=true)](https://ci.appveyor.com/project/Lachee/r6stats-csharp/branch/master)| 
+| Nuget  | [![Build status](https://ci.appveyor.com/api/projects/status/3lac8dlphqsd3rvm/branch/nuget?svg=true)](https://ci.appveyor.com/project/Lachee/r6stats-csharp/branch/nuget)| 
