@@ -8,7 +8,7 @@
 In order to use this API, you are required an API key. See more information in Repository Readme.</Description>
     <Copyright></Copyright>
     <PackageTags>raindbowsixsiege api rest</PackageTags>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <PackageProjectUrl>https://r6stats.com/</PackageProjectUrl>
   </PropertyGroup>
 
