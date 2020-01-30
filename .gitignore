@@ -351,3 +351,5 @@ MigrationBackup/
 
 # Ignore all keys
 *.key
+artifacts/
+artifacts/**
