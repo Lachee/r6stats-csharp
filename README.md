@@ -1,5 +1,10 @@
-# r6stats-csharp
+# R6Stats C#
 .NET Core library for [R6Stats](https://r6stats.com/)
+
+| Branch | Status |
+|--------|--------|
+| Master | [![Build status](https://ci.appveyor.com/api/projects/status/3lac8dlphqsd3rvm/branch/master?svg=true)](https://ci.appveyor.com/project/Lachee/r6stats-csharp/branch/master)| 
+| Nuget  | [![Build status](https://ci.appveyor.com/api/projects/status/3lac8dlphqsd3rvm/branch/nuget?svg=true)](https://ci.appveyor.com/project/Lachee/r6stats-csharp/branch/master)| 
 
 ## Requirements
 * .NET Core 2.0
