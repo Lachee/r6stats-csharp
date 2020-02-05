@@ -19,7 +19,7 @@ namespace R6Stats.Entities
 
         BronzeV = 1600,
         BronzeIV = 1700,
-        BronzeIII = 1900,
+        BronzeIII = 1800,
         BronzeII = 1900,
         BronzeI = 2000,
 
